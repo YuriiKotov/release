@@ -1,0 +1,11 @@
+.radius {
+    padding: 10px;
+    /*height: 50%;*/
+    width:50%;
+    text-align: center;
+    /*height:40px;*/
+    border-radius: 20px;
+    background: #e7d5c0;
+}.rad {
+     border-radius: 2px;
+ }
