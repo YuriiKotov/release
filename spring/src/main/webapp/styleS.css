@@ -1,0 +1,139 @@
+body {
+    background-image: url("http://www.zastavki.com/pictures/originals/2012/Backgrounds_Bright_green_background_035524_.jpg");
+}
+.register {
+    height: 300px;
+    width: 600px;
+    margin-left: 30%;
+    margin-top: 10%;
+    color: red;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px black;
+}
+.form {
+    color: white;
+    font-size: 25px;
+    padding-left: 150px;
+}
+label {
+    text-shadow: 5px 5px 5px black;
+}
+#label1 {
+    padding-right: 60px;
+}
+#label2 {
+    padding-right: 17px;
+}
+input {
+    padding-left: 5px;
+    border-radius: 8px;
+    border: 2px solid black;
+}
+#submit {
+    margin-left: 40px;
+    margin-top: 25px;
+    height: 30px;
+    width: 200px;
+    color: white;
+    background-image: url("http://www.zastavki.com/pictures/originals/2012/Backgrounds_Bright_green_background_035524_.jpg");
+    font-size: 20px;
+    text-shadow: 5px 5px 5px black;
+}
+p {
+    font-size: 18px;
+    text-shadow: 5px 5px 5px black;
+    margin-left: 95px;
+    margin-top: 50px;
+    margin-bottom: -10px;
+}
+#pp{
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-top: 25px;
+    margin-left: 190px;
+    height: 30px;
+    width: 200px;
+    background-image: url("http://www.zastavki.com/pictures/originals/2012/Backgrounds_Bright_green_background_035524_.jpg");
+    position: fixed;
+}
+#pp h5 {
+    color: white;
+    text-shadow: 5px 5px 5px black;
+    margin-top: 0px;
+    font-size: 20px;
+    padding-left: 65px;
+    position: inherit;
+}
+#aa:hover {
+    color: white;
+}
+#aa:active {
+    color: white;
+}
+#aa:visited {
+    color: white;
+}
+#aa {
+    color: chartreuse;
+    text-decoration: none;
+    text-shadow: 5px 5px 5px black;
+}
+.storeBody {
+     margin-left: 0px;
+     margin-right: 0px;
+     background-image: url("http://www.zastavki.com/pictures/originals/2012/Backgrounds_Bright_green_background_035524_.jpg");
+ }
+.head {
+    top: 0px;
+    background-color: rgba(0, 0, 0,  0.5);
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    color: white;
+}
+#info {
+    position: inherit;
+    font-size: 50px;
+    color: chartreuse;
+    text-shadow: 5px 5px 5px black;
+    margin-left: 30%;
+}
+#info ul {
+    margin-top: 20px;
+}
+#info li {
+    display: inline;
+}
+#imgMoney {
+    height: 50px;
+}
+#imgBasket {
+    height: 50px;
+    padding-left: 100px;
+}
+#storeBody {
+    width: 100%;
+    display: block;
+    margin-top: 100px;
+}
+#storeBody img {
+    height: 100px;
+}
+table {
+    font-size: 20px;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+    text-align: center;
+}
+.f1 input {
+    width: 100px;
+    text-align: center;
+}
+.sanks {
+    margin-left: 20%;
+    margin-top: 20%;
+    color: red;
+}
+.sanks p {
+    font-size: 50px;
+}
