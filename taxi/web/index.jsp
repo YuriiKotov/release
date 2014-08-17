@@ -10,7 +10,7 @@
 <html>
 <head>
     <title>auto</title>
-    <link rel="stylesheet"  href="styleS.css" type="text/css">
+    <link rel="stylesheet"  href="css/style.css" type="text/css">
 </head>
 <body>
     <div class="regClientMain">
